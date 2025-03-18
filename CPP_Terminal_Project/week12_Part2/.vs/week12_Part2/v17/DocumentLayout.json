@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\GameplayState.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\GameplayState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\Level.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A5FC4FB-D76C-4D76-962A-137FB87AFC7C}|week12_Part2\\week12_Part2.vcxproj|solutionrelative:week12_Part2\\Level.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 220,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameplayState.cpp",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.cpp",
+              "RelativeDocumentMoniker": "week12_Part2\\GameplayState.cpp",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.cpp",
+              "RelativeToolTip": "week12_Part2\\GameplayState.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T15:11:02.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameplayState.h",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.h",
+              "RelativeDocumentMoniker": "week12_Part2\\GameplayState.h",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameplayState.h",
+              "RelativeToolTip": "week12_Part2\\GameplayState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T15:11:02.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Player.h",
+              "RelativeDocumentMoniker": "week12_Part2\\Player.h",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Player.h",
+              "RelativeToolTip": "week12_Part2\\Player.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T15:11:02.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level.cpp",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.cpp",
+              "RelativeDocumentMoniker": "week12_Part2\\Level.cpp",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.cpp",
+              "RelativeToolTip": "week12_Part2\\Level.cpp",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T15:11:02.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level.h",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.h",
+              "RelativeDocumentMoniker": "week12_Part2\\Level.h",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\Level.h",
+              "RelativeToolTip": "week12_Part2\\Level.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T15:11:02.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameState.h",
+              "DocumentMoniker": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameState.h",
+              "RelativeDocumentMoniker": "week12_Part2\\GameState.h",
+              "ToolTip": "D:\\My_Project\\CPP_Terminal_Project\\week12_Part2\\week12_Part2\\GameState.h",
+              "RelativeToolTip": "week12_Part2\\GameState.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T15:11:02.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

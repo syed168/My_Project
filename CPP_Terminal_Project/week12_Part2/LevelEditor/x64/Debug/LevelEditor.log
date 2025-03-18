@@ -1,0 +1,8 @@
+﻿  LevelEditor.cpp
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(10,34): warning C4309: 'initializing': truncation of constant value
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(11,33): warning C4309: 'initializing': truncation of constant value
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(12,37): warning C4309: 'initializing': truncation of constant value
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(13,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(15,36): warning C4309: 'initializing': truncation of constant value
+C:\Users\syed\source\repos\week12_Part2\LevelEditor\LevelEditor.cpp(16,34): warning C4309: 'initializing': truncation of constant value
+  LevelEditor.vcxproj -> C:\Users\syed\source\repos\week12_Part2\x64\Debug\LevelEditor.exe
