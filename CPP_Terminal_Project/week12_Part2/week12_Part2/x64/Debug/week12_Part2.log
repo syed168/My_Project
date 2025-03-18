@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (week10_Part2.vcxproj, week11_Part2.vcxproj, week8_Part2.vcxproj, week9_Part2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  AudioManager.cpp
+  Door.cpp
+  Enemy.cpp
+  Game.cpp
+  GameplayState.cpp
+  Goal.cpp
+  HighScoreState.cpp
+  Key.cpp
+  Level.cpp
+  LoseState.cpp
+  MainMenuState.cpp
+  Money.cpp
+  PlacableActor.cpp
+  Player.cpp
+  SettingsState.cpp
+  StateMachineExampleGame.cpp
+  week12_Part2.cpp
+  WinState.cpp
+  Generating Code...
+  week12_Part2.vcxproj -> D:\C++_Terminal_Project\week12_Part2\x64\Debug\week12_Part2.exe
